@@ -27,12 +27,13 @@ body {
   width: 300px;
   border: 4px solid black;
   font-family: "DS-Digital";
-  font-size: 53px;
+  font-size: 53px; 
 }
 
-.clearBtn {
+.clearAllBtn, .clearOneBtn {
   height: 50px;
   width: 100px;
+  background-color: forestgreen;
 }
 
 .buttons {
